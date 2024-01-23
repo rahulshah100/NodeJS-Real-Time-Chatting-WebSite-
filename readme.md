@@ -52,4 +52,12 @@ This project is a simple realtime chat application built using NodeJS and Socket
 - Simple and intuitive user interface.
 
 
+Video of the Site Working:
+https://github.com/rahulshah100/NodeJS-Real-Time-Chatting-WebSite-/assets/64270418/17bac370-cd96-4710-8ba8-912e98a6eee9
+
+Images:
+![image](https://github.com/rahulshah100/NodeJS-Real-Time-Chatting-WebSite-/assets/64270418/bf656ba9-49d3-4ca6-ac6f-e13390bc5290)
+![image](https://github.com/rahulshah100/NodeJS-Real-Time-Chatting-WebSite-/assets/64270418/e69f2847-c3b3-4d96-8010-c72560a486a6)
+
+
 Feel free to contribute or customize the application as needed.
