@@ -3,20 +3,20 @@ This project is a simple realtime chat application built using NodeJS and Socket
 
 
 ## Project Structure
--> nodeServer Directory consists of files that Constitute the server 
--> Whereas the rest of the files makes up the for the front-end/User Page
-.
-|-- CSS
-|-- js
-| |-- client.js
-|-- nodeServer
-| |-- node_modules
-| |-- index.js
-| |-- package-lock.json
-| |-- package.json
-|-- chat.png
-|-- index.html
-|-- Ting.wav
+-> nodeServer Directory consists of files that Constitute the server <br/>
+-> Whereas the rest of the files makes up the for the front-end/User Page <br/>
+. <br/>
+|-- CSS<br/>
+|-- js<br/>
+| |-- client.js<br/>
+|-- nodeServer<br/>
+| |-- node_modules<br/>
+| |-- index.js<br/>
+| |-- package-lock.json<br/>
+| |-- package.json<br/>
+|-- chat.png<br/>
+|-- index.html<br/>
+|-- Ting.wav<br/>
 
 - **CSS**: Folder for cascading style sheets.
 - **js**: Folder containing the frontend JavaScript script.
