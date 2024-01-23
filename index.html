@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Realtime Chat</title>
+    <link rel="icon" href="chat.png" type="image/png">
+    <!-- To expose a standalone build of node server to the client via socket.io-->
+    <script defer src="http://localhost:8000/socket.io/socket.io.js"></script>
+    <!-- Using defer to run the script post the page content has loaded -->
+    <script defer src="js/client.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <img src="chat.png" alt="" class="logo">
+        <h1>Welcome to live chat <small> powered by NodeJs</small></h1>
+    </nav>
+    <div class="container"></div>
+
+    <div class="send">
+        <form action="#" id="send-container">
+            <input type="text" name="message" id="messageInp">
+            <button class="btn" type="submit">Send</button>
+        </form>
+    </div>
+</body>
+</html>
